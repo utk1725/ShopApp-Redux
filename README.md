@@ -85,8 +85,6 @@ Visit: [http://localhost:3000](http://localhost:3000)
 
 ## 📸 Preview
 
-You can include a screenshot below for a better visual:
-
 ![Screenshot 2025-05-19 at 3 13 52 PM](https://github.com/user-attachments/assets/984f7b2c-961e-48b9-842b-8c47e038f47d)
 
 ---
